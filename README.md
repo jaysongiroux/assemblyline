@@ -1,4 +1,4 @@
-# assemblyline
+# Assembly Line - Dynamic programming
 <br>
 Name: Jason G.<br> 
 Class: Analysis of algorithms <br>
@@ -15,7 +15,7 @@ main.py - 2 lane
 threelane.py - 3 lane
 <br>
 <br>
-*.txt - containes transition times, process times and enter/exit times.
+*.txt - contains transition times, process times and enter/exit times.
 <br>
 <b>Enter/ Exit </b>
 the first line in process times is the enter times and the second line in the process times file is the exit times.
